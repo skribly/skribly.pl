@@ -1,6 +1,6 @@
 # Skribly
 
-> Skribly is a non-commercial ecosystem of developer tools: an issue tracker, a desktop environment for AI agents and a library of agent skills.
+> Skribly runs AI coding agents on your computer, with no account and on your own logins. Tasks become files in the repository, and commits follow its style.
 
 Skribly is a non-commercial project by Dawid Olko, Piotr Smoła, Michał Pilecki, Konrad Pluta and Mateusz Olko. The repositories are private for now. Every page is also available in Polish under /pl/.
 
@@ -8,7 +8,7 @@ Skribly is a non-commercial project by Dawid Olko, Piotr Smoła, Michał Pilecki
 
 - [Apps](https://skribly.pl/apps/): Skribly Agent, Skribly Tracker and agent-skills: what each app does and how they work together.
 - [Download](https://agent.skribly.pl/download/): Download Skribly Agent for macOS, Windows and Linux. Installers update on their own, and each release lists SHA-256 checksums.
-- [Skribly Agent](https://skribly.pl/apps/skribly-agent/): A desktop environment for AI coding agents on macOS, Windows and Linux: tasks, Git worktrees, pipelines and audits.
+- [Skribly Agent](https://skribly.pl/apps/skribly-agent/): A desktop app for AI coding agents on macOS, Windows and Linux, with no account. Agents use your own logins, and tasks become files in the repository.
 - [Skribly Tracker](https://skribly.pl/apps/skribly-tracker/): An issue tracker in the browser with Kanban boards, time logs and a REST API that agents can use.
 - [agent-skills](https://skribly.pl/apps/agent-skills/): 39 portable skills with one installer for seven AI coding agents, from a tracker ticket to a reviewed, tested commit.
 
